@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-I'm a 2nd-year CS undergrad at **NIT Delhi** passionate about building AI-powered systems and full-stack applications. I work across the full spectrum — from training ML models and building RAG pipelines to shipping production-ready web apps.
+I'm a final-year CS undergrad at **NIT Delhi** passionate about building AI-powered systems and full-stack applications. I work across the full spectrum — from training ML models and building RAG pipelines to shipping production-ready web apps.
 
 - 🔭 Currently building **Data Pulse** — a user analytics platform with embeddable tracker, sessions & heatmaps
 - 🌱 Deep-diving into **LLMs**, **RAG architectures**, **Computer Vision** and **Generative AI**
